@@ -1,0 +1,11 @@
+- text: Home
+  url: /
+
+- text: Categories
+  url: /categories/
+
+- text: Tags
+  url: /tags/
+
+- text: About
+  url: /about/
