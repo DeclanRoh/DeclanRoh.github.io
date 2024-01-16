@@ -3,7 +3,7 @@ layout: list
 title: Daily
 slug: daily
 menu: true
-order: 1
+order: 3
 description: >
   Daily life, Study...
 accent_color: '#268bd2'
