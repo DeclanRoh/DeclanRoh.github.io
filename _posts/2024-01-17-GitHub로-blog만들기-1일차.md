@@ -1,12 +1,13 @@
 ---
-title: "[Blog] Day 1🌱"
-date: "${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND}" +09:00
-categories: [github, blog]
+title: "[Zoom] Meeting API 🌱"
+date: 2024-01-18
+categories: [zoom, api]
 tags:
-  [
-    'git',
-    'blog',
-    'ruby',
-  ]
+    [
+        zoom,
+        meeting,
+        api,
+    ]
 ---
-# Github를 선택한 이유
+# Zoom 
+> 원격 미팅, 웨비나, 채팅, 전화, 비즈니스 용 이메일 및 캘린더를 포함한 통합 커뮤니케이션 서비스 (UCaaS) 플랫폼.
