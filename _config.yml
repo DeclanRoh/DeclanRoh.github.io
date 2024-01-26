@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Declan's Gopy Hat # the main title
+title: Declan's Privacy Blog # the main title
 
-tagline: Declan's simple diary blog # it will display as the sub-title
+tagline: Declan's simple blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Declan의 소소한 개발일지, 일상, 여행 등 다양한 내용들이 있습니다!
